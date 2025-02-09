@@ -370,7 +370,7 @@ dex_import {
 }
 
 prebuilt_etc_xml {
-	name: "dataconnection-saidl",
+	name: "dataconnection-saidl.xml",
 	owner: "motorola",
 	src: "proprietary/vendor/etc/vintf/manifest/dataconnection-saidl.xml",
 	filename_from_src: true,
@@ -379,7 +379,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "qtiradio-saidl",
+	name: "qtiradio-saidl.xml",
 	owner: "motorola",
 	src: "proprietary/vendor/etc/vintf/manifest/qtiradio-saidl.xml",
 	filename_from_src: true,
@@ -388,7 +388,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "vendor.qti.gnss-service",
+	name: "vendor.qti.gnss-service.xml",
 	owner: "motorola",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.qti.gnss-service.xml",
 	filename_from_src: true,
@@ -397,7 +397,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "vendor.qti.hardware.radio.ims",
+	name: "vendor.qti.hardware.radio.ims.xml",
 	owner: "motorola",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.qti.hardware.radio.ims.xml",
 	filename_from_src: true,
